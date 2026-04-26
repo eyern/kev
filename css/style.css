@@ -14576,7 +14576,7 @@ blockquote {
 .site-footer a {
   position: relative;
   display: inline-block;
-  color: rgba(0, 0, 0, 0.5);
+  color: #f8f9fa;
 }
 
 .site-footer a:hover {
@@ -14601,7 +14601,7 @@ blockquote {
   font-size: 18px;
   font-weight: bold;
   margin-bottom: 30px;
-  color: #fff;
+  color: #ADD8E6;
 }
 
 .site-footer .widget .links {
@@ -14613,7 +14613,7 @@ blockquote {
 }
 
 .site-footer .widget .links li a {
-  color: rgba(255, 255, 255, 0.5);
+  color: #f8f9fa;
 }
 
 .site-footer .widget .links li a:hover {
